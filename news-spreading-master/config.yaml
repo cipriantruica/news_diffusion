@@ -1,0 +1,47 @@
+topics:
+  politics:
+    - Trump
+    - brexit
+    - war
+    - Putin
+    - Theresa May
+  natural_disasters:
+    - fire
+    - fire fighters
+    - tsunami
+
+twitter:
+  pages:
+    - BBCWorld
+    - guardian
+    - googlenews
+    - WSJ
+    - Telegraph
+    - bloomberg
+    - businessinsider
+  credentials:
+    consumer_key: dj8OE4a4lKhGD6zSA18vIWMzL
+    consumer_secret: woZkPqWUTmeDW4VDGp8sQYB1CWkpmW8yFrJDKqb9Z9yO28fZMH
+    access_token: 2389355166-KCXIMs4Sf8T3lZMW0VpxaubHcawUyTxsTrV2Qah
+    access_token_secret: NJy47tEtE9ekFgzPRw8t1gfsKH220nr8jswIm2dm8VzYz
+
+
+news_river:
+  api_token: sBBqsGXiYgF0Db5OV5tAw7RsdPwsB9LZyQ1ku2bsXZ92OhW7AbNE-HTmKKsF6Nnwn2pHZrSf1gT2PUujH1YaQA
+
+news_api:
+  api_token: 8fb6214bd2f247a2bfc7ed12826c08dd
+  sources:
+    - bbc-news
+    - the-new-york-times
+    - reuters
+    - the-washington-times
+    - the-telegraph
+    - financial-post
+    - daily-mail
+
+dbs:
+  mongo:
+    db: news_spreading
+    host: localhost
+    port: 27017
